@@ -32,7 +32,7 @@ description = "Openbuilds Grbl V13 Blackbox,xPro";
 vendor = "Openbuilds and the Swarfer";
 vendorUrl = "http://openbuilds.com";
 model = "GRBL";
-description = "Open Hardware CNC Router V13 using GRBL";
+description = "Swarfer Grbl Post"; // or something else to make it more descriptive
 legal = "Copyright (C) 2012-2019 by Autodesk, Inc.";
 certificationLevel = 2;
 
